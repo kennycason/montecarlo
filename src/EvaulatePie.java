@@ -10,7 +10,7 @@ public class EvaulatePie {
         A_circle = πr^2
         A_square = (2r)^2
 
-        circle transcribed in a square, r_t = r_s = r
+        circle transcribed in a square, r_c = r_s = r
 
         A_square / A_circle (r = 1) = ratio of areas between square and circle
         = 4 / π
@@ -57,6 +57,5 @@ public class EvaulatePie {
         // System.out.println(x + ", " + y);
         return x * x + y * y < 1.0;
     }
-
 
 }
