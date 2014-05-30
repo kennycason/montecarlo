@@ -3,6 +3,7 @@
 .settings/*
 .idea
 bin
+/out
 /target
 *.log
 .idea/*
